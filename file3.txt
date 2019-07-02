@@ -7,3 +7,8 @@ line
 line
 line
 merge file3added after modifying file2
++
++
++
++
+modify file3

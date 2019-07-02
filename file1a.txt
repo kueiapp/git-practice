@@ -1,7 +1,0 @@
-test1
-line 2
-========
-modify file1 after checkout from branch file3added
-===
-modified in branch modify-file3
-modified in master

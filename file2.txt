@@ -1,3 +1,6 @@
 test2
 merged
 add file2 in file3added
+==
+==
+modify in branch master
